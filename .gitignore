@@ -1,0 +1,21 @@
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python (caso adiciones scripts depois)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
